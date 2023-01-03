@@ -27,4 +27,4 @@ Model used for analysis - **Linear Regression, KNN, Decision Tree, Random Forest
 
 (iv) Random Forest = 0.158
 
-So, Random Forest classification is best suited for Laptop price prediction as it has maximum R2 score and least mean absolute error.
+So, **Random Forest classification is best suited** for Laptop price prediction as it has maximum R2 score and least mean absolute error.
