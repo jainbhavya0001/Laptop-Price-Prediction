@@ -3,9 +3,9 @@ This is a project where I have used multiple Machine learning models to predict 
 
 Then using Correlational Analysis and selecting particular features a machine learning model is developed and R2 score is calculated by minimizing the error.
 
-Model used for analysis - Linear Regression, KNN, Decision Tree, Random Forest.
+Model used for analysis - **Linear Regression, KNN, Decision Tree, Random Forest.**
 
-Result:
+**Result:**
 
 **R2 score->**
 
